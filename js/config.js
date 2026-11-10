@@ -51,7 +51,7 @@ window.SITE_CONFIG = {
 
   /* ---- Behaviour ----------------------------------------------------- */
   options: {
-    defaultLang: 'en',
+    defaultLang: 'te',
     storageKey: 'nischitardham.lang',
     /* Hide the "this QR opens the published invitation" note on the live site. */
     showQrNoteOffSite: true
