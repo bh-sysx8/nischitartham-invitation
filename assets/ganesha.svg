@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Lord Ganesha illustration">
+  <!-- medallion -->
+  <g fill="none" stroke="#C6A66A" stroke-width="1" opacity="0.5">
+    <circle cx="120" cy="120" r="113"/>
+  </g>
+  <g fill="none" stroke="#A78343" stroke-width="0.7" opacity="0.4">
+    <circle cx="120" cy="120" r="106"/>
+    <circle cx="120" cy="120" r="72"/>
+  </g>
+  <g fill="#C6A66A" opacity="0.8">
+    <circle cx="120" cy="9.5" r="1.6"/><circle cx="146.4" cy="12.6" r="1.6"/><circle cx="171.2" cy="21.8" r="1.6"/>
+    <circle cx="193" cy="36.7" r="1.6"/><circle cx="210.4" cy="56.6" r="1.6"/><circle cx="222.4" cy="80.4" r="1.6"/>
+    <circle cx="228.4" cy="106.6" r="1.6"/><circle cx="228.4" cy="133.4" r="1.6"/><circle cx="222.4" cy="159.6" r="1.6"/>
+    <circle cx="210.4" cy="183.4" r="1.6"/><circle cx="193" cy="203.3" r="1.6"/><circle cx="171.2" cy="218.2" r="1.6"/>
+    <circle cx="146.4" cy="227.4" r="1.6"/><circle cx="120" cy="230.5" r="1.6"/><circle cx="93.6" cy="227.4" r="1.6"/>
+    <circle cx="68.8" cy="218.2" r="1.6"/><circle cx="47" cy="203.3" r="1.6"/><circle cx="29.6" cy="183.4" r="1.6"/>
+    <circle cx="17.6" cy="159.6" r="1.6"/><circle cx="11.6" cy="133.4" r="1.6"/><circle cx="11.6" cy="106.6" r="1.6"/>
+    <circle cx="17.6" cy="80.4" r="1.6"/><circle cx="29.6" cy="56.6" r="1.6"/><circle cx="47" cy="36.7" r="1.6"/>
+    <circle cx="68.8" cy="21.8" r="1.6"/><circle cx="93.6" cy="12.6" r="1.6"/>
+  </g>
+
+  <!-- ===== Ganesha ===== -->
+  <g fill="none" stroke="#A78343" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- crown finial + tiers -->
+    <path d="M120 66 L120 58"/>
+    <circle cx="120" cy="54.5" r="3.2"/>
+    <path d="M106 82 C 108 70, 113 65, 120 63 C 127 65, 132 70, 134 82"/>
+    <path d="M100 88 C 100 77, 109 71, 120 69 C 131 71, 140 77, 140 88"/>
+    <path d="M100 88 C 108 84, 132 84, 140 88" stroke-width="1.4"/>
+    <path d="M100 88 C 96 84, 94 79, 95 74" stroke-width="1.4"/>
+    <path d="M140 88 C 144 84, 146 79, 145 74" stroke-width="1.4"/>
+
+    <!-- head -->
+    <path d="M108 132 C 100 128, 95 118, 95 104 C 95 90, 106 82, 120 82 C 134 82, 145 90, 145 104 C 145 118, 140 128, 132 132"/>
+    <path d="M120 90 L120 97" stroke-width="1.4"/>
+    <circle cx="120" cy="101" r="1.5" fill="#A78343" stroke="none"/>
+
+    <!-- ears -->
+    <path d="M97 99 C 85 95, 74 104, 73 118 C 72 131, 80 141, 90 140 C 96 139, 99 133, 98 126"/>
+    <path d="M143 99 C 155 95, 166 104, 167 118 C 168 131, 160 141, 150 140 C 144 139, 141 133, 142 126"/>
+    <path d="M89 110 C 83 115, 83 126, 89 131" stroke-width="1.2"/>
+    <path d="M151 110 C 157 115, 157 126, 151 131" stroke-width="1.2"/>
+
+    <!-- brows and eyes -->
+    <path d="M106 106 C 109 103, 113 103, 116 106" stroke-width="1.3"/>
+    <path d="M124 106 C 127 103, 131 103, 134 106" stroke-width="1.3"/>
+    <path d="M108 112 C 110 109.5, 114 109.5, 116 112" stroke-width="1.6"/>
+    <path d="M124 112 C 126 109.5, 130 109.5, 132 112" stroke-width="1.6"/>
+
+    <!-- tusks -->
+    <path d="M104 126 C 101 132, 96 135, 91 135" stroke-width="1.3"/>
+    <path d="M136 126 C 139 132, 144 135, 149 135" stroke-width="1.3"/>
+
+    <!-- trunk -->
+    <path d="M108 132 C 107 150, 105 162, 100 172 C 94 182, 82 180, 82 170 C 82 162, 90 160, 93 166 C 97 171, 101 160, 103 150 C 104 141, 109 135, 119 132"/>
+
+    <!-- shoulders, arms, hands -->
+    <path d="M101 141 C 92 147, 87 158, 87 169"/>
+    <path d="M139 141 C 148 147, 153 158, 153 169"/>
+    <path d="M87 169 C 85 177, 88 183, 93 185"/>
+    <path d="M153 169 C 155 177, 152 183, 147 185"/>
+    <path d="M93 185 C 96 187, 100 185, 101 181" stroke-width="1.4"/>
+    <path d="M147 185 C 144 187, 140 185, 139 181" stroke-width="1.4"/>
+
+    <!-- torso and lap -->
+    <path d="M106 143 C 104 155, 106 166, 112 174"/>
+    <path d="M134 143 C 136 155, 134 166, 128 174"/>
+    <path d="M92 174 C 100 184, 140 184, 148 174"/>
+    <path d="M78 186 C 90 176, 150 176, 162 186"/>
+    <path d="M80 190 C 94 197, 146 197, 160 190" stroke-width="1.4"/>
+
+    <!-- lotus seat -->
+    <path d="M70 196 C 88 190, 152 190, 170 196" stroke-width="1.3"/>
+    <path d="M74 197 C 80 205, 88 209, 96 210" stroke-width="1.2"/>
+    <path d="M92 195 C 97 204, 105 209, 113 210" stroke-width="1.2"/>
+    <path d="M120 194 L120 210" stroke-width="1.2"/>
+    <path d="M148 195 C 143 204, 135 209, 127 210" stroke-width="1.2"/>
+    <path d="M166 197 C 160 205, 152 209, 144 210" stroke-width="1.2"/>
+    <path d="M76 199 C 90 214, 150 214, 164 199" stroke-width="1.3"/>
+  </g>
+</svg>
