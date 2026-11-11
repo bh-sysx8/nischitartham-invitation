@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nischitardham">
-  <rect width="64" height="64" rx="10" fill="#FAF7F0"/>
-  <circle cx="32" cy="32" r="25.5" fill="none" stroke="#A78343" stroke-width="1.4"/>
-  <circle cx="32" cy="32" r="21.5" fill="none" stroke="#C6A66A" stroke-width="0.7" opacity="0.75"/>
-  <path d="M24 41V23l16 18V23" fill="none" stroke="#A78343" stroke-width="2.2"
-        stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
