@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nischitardham invitation">
-  <rect width="64" height="64" fill="#FAF7F0"/>
-  <rect x="2.5" y="2.5" width="59" height="59" fill="none" stroke="#C6A66A" stroke-width="1.2"/>
-  <rect x="6.5" y="6.5" width="51" height="51" fill="none" stroke="#A78343" stroke-width="0.6" opacity="0.65"/>
-  <path d="M32 15 L45 32 L32 49 L19 32 Z" fill="none" stroke="#A78343" stroke-width="1.4"/>
-  <path d="M32 22 L38.5 32 L32 42 L25.5 32 Z" fill="#C6A66A"/>
-</svg>
